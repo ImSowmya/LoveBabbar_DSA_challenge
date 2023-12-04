@@ -1,4 +1,4 @@
-
+//https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/
 
 import java.util.*;
 
