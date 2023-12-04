@@ -1,7 +1,7 @@
 //https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 
 import java.util.*;
-class MissingNumberInArray 
+class MissingNumberInArray_Day2 
 {
     public static void main(String args[])
     {
