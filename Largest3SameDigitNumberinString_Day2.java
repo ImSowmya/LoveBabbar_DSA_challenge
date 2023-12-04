@@ -1,7 +1,7 @@
 //https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 
 import java.util.*;
-class Largest3SameDigitNumberinString 
+class Largest3SameDigitNumberinString_Day2 
 {
     public static void main(String args[])
     {
