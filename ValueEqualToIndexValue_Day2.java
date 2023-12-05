@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class ValueEqualToIndexValue 
+class ValueEqualToIndexValue_Day2 
 {
     public static void main(String args[])
     {
