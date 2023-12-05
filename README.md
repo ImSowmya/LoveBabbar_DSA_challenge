@@ -12,3 +12,7 @@ DAY 2 - ARRAYS
 2. https://practice.geeksforgeeks.org/problems/max-min/
 3. https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1
 4. https://www.geeksforgeeks.org/problems/value-equal-to-index-value1330/
+
+
+DAY 3 - ARRAYS
+1. https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
