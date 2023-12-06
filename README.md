@@ -25,3 +25,4 @@ DAY 4 - ARRAYS
 1. https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
 2. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 3. https://www.geeksforgeeks.org/problems/how-many-xs4514/1
+4. https://leetcode.com/problems/count-of-matches-in-tournament/
