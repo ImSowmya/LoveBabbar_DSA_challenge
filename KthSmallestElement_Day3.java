@@ -1,4 +1,6 @@
 //https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+//https://leetcode.com/problems/kth-largest-element-in-an-array/
+//https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 
 import java.util.*;
 
