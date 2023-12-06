@@ -23,3 +23,4 @@ DAY 3 - ARRAYS
 
 DAY 4 - ARRAYS
 1. https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1/
+2. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/
