@@ -20,3 +20,6 @@ DAY 3 - ARRAYS
 4. https://leetcode.com/problems/count-of-matches-in-tournament/
 5. https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/0
 6. https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/0
+
+DAY 4 - ARRAYS
+1. https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1/
