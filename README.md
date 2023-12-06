@@ -4,7 +4,6 @@ DAY 1 - ARRAYS
 1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 2. https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/0
 3. https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
-https://practice.geeksforgeeks.org/problems/reverse-each-word-in-a-given-string1001/0
 4. https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/0
 
 DAY 2 - ARRAYS
@@ -20,3 +19,4 @@ DAY 3 - ARRAYS
 3. https://leetcode.com/problems/kth-largest-element-in-an-array/
 4. https://leetcode.com/problems/count-of-matches-in-tournament/
 5. https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/0
+6. https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/0
