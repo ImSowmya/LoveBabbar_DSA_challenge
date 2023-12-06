@@ -19,3 +19,4 @@ DAY 3 - ARRAYS
 2. https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1
 3. https://leetcode.com/problems/kth-largest-element-in-an-array/
 4. https://leetcode.com/problems/count-of-matches-in-tournament/
+5. https://practice.geeksforgeeks.org/problems/array-subset-of-another-array2317/0
