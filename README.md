@@ -22,5 +22,6 @@ DAY 3 - ARRAYS
 6. https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/0
 
 DAY 4 - ARRAYS
-1. https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1/
-2. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/
+1. https://practice.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1
+2. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
+3. https://www.geeksforgeeks.org/problems/how-many-xs4514/1
