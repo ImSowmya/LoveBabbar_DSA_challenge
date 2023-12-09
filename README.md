@@ -26,3 +26,6 @@ DAY 4 - ARRAYS
 2. https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 3. https://www.geeksforgeeks.org/problems/how-many-xs4514/1
 4. https://leetcode.com/problems/count-of-matches-in-tournament/
+
+DAY 5 
+1. https://www.geeksforgeeks.org/problems/number-of-subarrays-with-maximum-values-in-given-range5949/1
