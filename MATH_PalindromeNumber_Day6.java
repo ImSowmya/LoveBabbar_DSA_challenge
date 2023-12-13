@@ -1,5 +1,5 @@
 import java.util.*;
-class MATH_PalindromeNumber 
+class MATH_PalindromeNumber_Day6 
 {
     public static void main(String[] args) 
     {
