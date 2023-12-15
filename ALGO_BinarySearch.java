@@ -23,5 +23,8 @@ class ALGO_BinarySearch
     else if (arr[mid] < key ) return BinarySearch(arr, key, mid+1, end);
     else return BinarySearch(arr, key, start, mid-1);
     }
-
 }
+
+// Order Agostic Binary Search involves finding out the order of the order array
+// either ascending or descending by comparing first and last elements of the array
+// and drafting the conditions of the algorithm accordingly
