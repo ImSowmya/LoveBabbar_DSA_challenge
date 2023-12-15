@@ -2,7 +2,7 @@
 //CEILING OF A TARGET NUMBER IN AN ARRAY
 
 import java.util.*;
-class SearchInsertPosition 
+class SearchInsertPosition_Day7 
 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
