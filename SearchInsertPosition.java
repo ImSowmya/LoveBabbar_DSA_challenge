@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/search-insert-position/description/
+//CEILING OF A TARGET NUMBER IN AN ARRAY
 
 import java.util.*;
 class SearchInsertPosition 
@@ -24,3 +25,5 @@ class SearchInsertPosition
         else return binarySearch(nums, target, mid+1, end);
     }
 }
+
+// IF THEY ASK FOR FLOOR OF A NUMBER IN AN ARRAY, RETURN END INSTEAD OF START.
