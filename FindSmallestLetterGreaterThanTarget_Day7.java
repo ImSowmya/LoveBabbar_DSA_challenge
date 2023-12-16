@@ -16,12 +16,11 @@ class FindSmallestLetterGreaterThanTarget_Day7
         System.out.println(binarySearch(letters, target, start, end));
     }
 
-    static int binarySearch( char [] letters, int target, int start, int end)
+    static char binarySearch( char [] letters, int target, int start, int end)
     {
         int mid = (start+end)/2;
-        if (start > end) return binarySearch(letters, target, start+1, end);
-        if (letters[mid] == target) return mid;
-        else if (letters[mid] > target) return binarySearch(letters, target, start, mid-1);
+        if (start > end) return letters[start%letters.length];
+        if (letters[mid] > target) return binarySearch(letters, target, start, mid-1);
         else return binarySearch(letters, target, mid+1, end);
     }
     
