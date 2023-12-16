@@ -1,6 +1,6 @@
-
+//https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 import java.util.*;
-class FindFirstAndLastPositionofElementinSortedArray 
+class FindFirstAndLastPositionofElementinSortedArray_Day7 
 {
     public static void main(String[] args) 
     {
