@@ -13,7 +13,7 @@ class FindFirstAndLastPositionofElementinSortedArray_Day7
 
         int [] ans = {-1,-1};
         ans[0] = binarySearch(nums, target, true, 0, nums.length-1, -1);
-        ans [1] = binarySearch(nums, target, false, 0, nums.length-1, -1);
+        if (ans[0] != -1) ans [1] = binarySearch(nums, target, false, 0, nums.length-1, -1);
         System.out.println(Arrays.toString(ans));
     }
 
