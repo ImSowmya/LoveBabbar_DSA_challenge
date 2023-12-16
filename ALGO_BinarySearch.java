@@ -19,9 +19,9 @@ class ALGO_BinarySearch
         if (start > end) return -1;
         int mid = (start+end)/2;
 
-    if(arr[mid] == key) return mid;
-    else if (arr[mid] < key ) return BinarySearch(arr, key, mid+1, end);
-    else return BinarySearch(arr, key, start, mid-1);
+        if(arr[mid] == key) return mid;
+        else if (arr[mid] < key ) return BinarySearch(arr, key, mid+1, end);
+        else return BinarySearch(arr, key, start, mid-1);
     }
 }
 
