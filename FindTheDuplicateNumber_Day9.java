@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/find-the-duplicate-number/
+
 class FindTheDuplicateNumber_Day9 {
     public static void main(String[] args) {
         int [] nums = {3,1,3,4,2};
