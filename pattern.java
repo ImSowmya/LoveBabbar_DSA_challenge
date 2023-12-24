@@ -8,7 +8,6 @@ class pattern
 
     static void pattern1()
     {
-        int count = 2;
         int n = 9;
         for (int i = 1; i <= n; i++) 
         {
@@ -21,11 +20,10 @@ class pattern
             } 
             else 
             {
-                for (int j = i - count; j > 0; j--) 
+                for (int j = n-i+1; j > 0; j--) 
                 {
                     System.out.print("* ");
                 }
-                count+=2;
             }
             System.out.println();
         }
