@@ -1,9 +1,9 @@
 # LoveBabbar_DSA_challenge
 
 DAY 1 - ARRAYS
-1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+1. https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 2. https://practice.geeksforgeeks.org/problems/palindromic-array-1587115620/0
-3. https://leetcode.com/problems/reverse-words-in-a-string-iii/description/
+3. https://leetcode.com/problems/reverse-words-in-a-string-iii/
 4. https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/0
 
 DAY 2 - ARRAYS
@@ -43,18 +43,21 @@ DAY 6 - MATH IN DSA
 
 DAY 7 - BINARY SEARCH
 1. https://leetcode.com/problems/peak-index-in-a-mountain-array/
-2. https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/
-3. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
-4. https://leetcode.com/problems/search-insert-position/description/
+2. https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+3. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+4. https://leetcode.com/problems/search-insert-position/
 
 DAY 8 - BINARY SEARCH
-1. https://leetcode.com/problems/search-in-rotated-sorted-array/description/
-2. https://leetcode.com/problems/find-in-mountain-array/description/
+1. https://leetcode.com/problems/search-in-rotated-sorted-array/
+2. https://leetcode.com/problems/find-in-mountain-array/
 3. https://leetcode.com/problems/split-array-largest-sum/
 
 DAY 9 - CYCLIC SORT
-1. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/
+1. https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 2. https://leetcode.com/problems/find-the-duplicate-number/
-3. https://leetcode.com/problems/missing-number/description/
-4. https://leetcode.com/problems/set-mismatch/description/
-5. https://leetcode.com/problems/first-missing-positive/description/
+3. https://leetcode.com/problems/missing-number/
+4. https://leetcode.com/problems/set-mismatch/
+5. https://leetcode.com/problems/first-missing-positive/
+
+DAY 10 - RECURSION
+1. https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
