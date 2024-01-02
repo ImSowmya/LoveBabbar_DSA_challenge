@@ -61,3 +61,4 @@ DAY 9 - CYCLIC SORT
 
 DAY 10 - RECURSION
 1. https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+2. Skip character in string
