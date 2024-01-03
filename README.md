@@ -62,3 +62,7 @@ DAY 9 - CYCLIC SORT
 DAY 10 - RECURSION
 1. https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 2. Skip character in string
+
+Day 11 - REVISION - ARRAYS
+1. https://leetcode.com/problems/concatenation-of-array/
+2. https://leetcode.com/problems/build-array-from-permutation/
