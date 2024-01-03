@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class RunningSumOf1DArray 
+class RunningSumOf1DArray_Day11 
 {
     public static void main(String[] args) 
     {
